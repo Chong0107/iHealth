@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="argon2-jvm-2.7">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/drive-download-20210105T123920Z-001/argon2-jvm-2.7.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/drive-download-20210105T123920Z-001/jna-5.5.0.jar!/" />
+      <root url="file://$PROJECT_DIR$" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/src" />
+    </SOURCES>
+  </library>
+</component>
